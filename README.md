@@ -15,7 +15,6 @@ This project is a **3D AI-powered T-shirt customization website** built with **R
 
 - **React**: Frontend framework for building the user interface.
 - **Three.js & React-Three-Fiber**: For rendering the 3D T-shirt model and handling animations.
-- **OpenAI**: To generate custom logos for users.
 - **Valtio**: For managing application state and making changes to the T-shirt model.
 - **Node.js & Express**: Backend for handling API requests and generating AI-powered designs.
 
